@@ -4,9 +4,9 @@
 ## AIM:
 To develop a simple webserver to serve html pages.
 
-## DESIGN STEPS
+## DESIGN STEPS:
 ### Step 1: 
-HTML content creatio
+HTML content creation.
 
 ### Step 2:
 Design of webserver workflow.
