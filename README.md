@@ -6,7 +6,7 @@ To develop a simple webserver to serve html pages.
 
 ## DESIGN STEPS
 ### Step 1: 
-HTML content creation.
+HTML content creatio
 
 ### Step 2:
 Design of webserver workflow.
