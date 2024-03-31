@@ -73,6 +73,5 @@ Testing the webserver.
 
 ## OUTPUT:
 ![alt text](<web 1.png>)
-![alt text](output.png)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
